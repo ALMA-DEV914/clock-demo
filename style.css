@@ -14,7 +14,7 @@ body{
     min-height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/flower-219963_1280.jpg);
+    background-image: url(flower-219963_1280.jpg);
 }
 .container{
     position: relative;
